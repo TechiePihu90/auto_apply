@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+playwright
+httpx
+sqlalchemy
+aiosqlite
+pydantic
+python-multipart
+playwright-stealth
+python-dotenv

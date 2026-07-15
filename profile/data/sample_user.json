@@ -1,0 +1,40 @@
+{
+  "first_name": "Jane",
+  "last_name": "Doe",
+  "preferred_first_name": "",
+  "email": "p567yal890@gmail.com",
+  "phone": "555-123-4567",
+  "country": "United States +1",
+  "location_city": "New York",
+  "resume_path": "profile/data/Kiran_Chalamala_BI_Analyst_Resume.pdf",
+  "cover_letter": "I am excited to apply for this role...",
+  "linkedin_url": "https://linkedin.com/in/janedoe",
+  
+  "website": "",
+  "legal_first_name": "Jane",
+  "legal_last_name": "Doe",
+  "city": "New York",
+  "state": "New York",
+  "interview_accommodations": "",
+  "custom_answers": {
+    "authorized_to_work": "Yes",
+    "requires_sponsorship": "No",
+    "pronounce_name": "Ki-ran",
+    "open_to_inperson": "Yes",
+    "earliest_start": "Immediately",
+    "deadlines": "",
+    "ai_policy": "Yes",
+    "why_anthropic": "I want to work at Anthropic because...",
+    "impressive_work": "Built a distributed system that...",
+    "visa_sponsorship": "No",
+    "additional_info": "",
+    "open_to_relocation": "Yes",
+    "work_address": "New York, NY",
+    "interviewed_before": "No",
+    "gender": "Decline to self-identify",
+    "hispanic_latino": "No",
+    "veteran_status": "I am not a protected veteran",
+    "disability": "No, I do not have a disability"
+  }
+
+}
